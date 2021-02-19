@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scanner barcode</string>
+    <style name="CustomProgressDialog" parent="Theme.AppCompat.Dialog">
+        <!--此屬性控制懸浮窗背景是否變暗-->
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>
